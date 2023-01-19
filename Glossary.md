@@ -1,25 +1,25 @@
 #### Glossary
-**AV**: Antivirus <br>
-**EDR**: Endpoint Detection and Response
-**IDPS**: Intrusion Detection an Prevention System
-**WAF**: Web Application Firewall
-**SIEM**: Security Information and Event Management
-**UEBA**: User and Entity Behavior Analytics
-**CASB**: Cloud Access Security Broker
-**OWASP**: Open Web Application Security Project
-**OSSTMM**: Open Source Security Testing Methodology Manual
-**IDS/IPS**: Instrusion Detection System / Intrusion Prevention System
-**SOC**: Security Operations Center
-**DLP**: Data Loss Prevention
-**NAC**: Network Access Control
-**NIST**: National Institute of Standards and Technology
-**TLD**: Top-Level Domain
-**DNS**: Domain Name System
-**IV**: Initialization Vector
-**TKIP**: Temporal Key Integrated Protocol
-**MIC**: Message Integrity Check
-**KRACKs**: Key Reinstallation AttaCKs
-**SD-WAN**: Software Defined Wide Area Network
-**SASE**: Secure Access Service Edge
-**DDoS**: Distributed Denial-of-Service
-**SWG**: Secure Web Gateway
+**AV**: Antivirus<br>
+**EDR**: Endpoint Detection and Response<br>
+**IDPS**: Intrusion Detection an Prevention System<br>
+**WAF**: Web Application Firewall<br>
+**SIEM**: Security Information and Event Management<br>
+**UEBA**: User and Entity Behavior Analytics<br>
+**CASB**: Cloud Access Security Broker<br>
+**OWASP**: Open Web Application Security Project<br>
+**OSSTMM**: Open Source Security Testing Methodology Manual<br>
+**IDS/IPS**: Instrusion Detection System / Intrusion Prevention System<br>
+**SOC**: Security Operations Center<br>
+**DLP**: Data Loss Prevention<br>
+**NAC**: Network Access Control<br>
+**NIST**: National Institute of Standards and Technology<br>
+**TLD**: Top-Level Domain<br>
+**DNS**: Domain Name System<br>
+**IV**: Initialization Vector<br>
+**TKIP**: Temporal Key Integrated Protocol<br>
+**MIC**: Message Integrity Check<br>
+**KRACKs**: Key Reinstallation AttaCKs<br>
+**SD-WAN**: Software Defined Wide Area Network<br>
+**SASE**: Secure Access Service Edge<br>
+**DDoS**: Distributed Denial-of-Service<br>
+**SWG**: Secure Web Gateway<br>
