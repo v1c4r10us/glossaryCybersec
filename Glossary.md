@@ -1,5 +1,5 @@
 #### Glossary
-**AV**: Antivirus
+**AV**: Antivirus <br>
 **EDR**: Endpoint Detection and Response
 **IDPS**: Intrusion Detection an Prevention System
 **WAF**: Web Application Firewall
