@@ -1,6 +1,6 @@
 #### Glossary
 **AV**: Antivirus<br>
-**EDR**: Endpoint Detection and Response<br>
+**EDR/XDR**: Endpoint Detection and Response / eXtended Detection and Response<br>
 **IDPS**: Intrusion Detection an Prevention System<br>
 **WAF**: Web Application Firewall<br>
 **SIEM**: Security Information and Event Management<br>
