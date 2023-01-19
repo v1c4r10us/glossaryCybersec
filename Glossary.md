@@ -23,3 +23,10 @@
 **SASE**: Secure Access Service Edge<br>
 **DDoS**: Distributed Denial-of-Service<br>
 **SWG**: Secure Web Gateway<br>
+**IDS/IPS**: Intrusion Detection System / Intrusion Prevention System<br>
+**NIDS**: Network Intrusion Detection System<br>
+**HIDS**: Host Based Intrusion Detection System<br>
+**SOAR**: Security Orchestration Automation and Response<br>
+**NAC**: Network Access Control<br>
+**IoC**: Indicator of Compromise<br>
+**CTI**: Cyber Threat Intelligence<br>
